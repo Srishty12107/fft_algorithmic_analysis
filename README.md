@@ -2,6 +2,9 @@ Project Title: Performance Evaluation of Cooley Tukey FFT v/s Bluestein's chirp 
 
 The project aims to evaluate the performance of two variations of FFT algorithm:, Cooley Tukey FFT(Radix 2 implementation) and Chirp-Z Transform FFT on audio signals on computational complexities such as running time, space consumption and spectral resolution for varied-length signals.
 
+Our progress report:
+https://www.sharelatex.com/project/59f67706dc1b5b7bbd13f33a
+
 References:
 
 Optimization of Chirp-Z Interpolation with Application to Image Zooming
@@ -54,3 +57,20 @@ https://www.dsprelated.com/freebooks/mdft/Fast_Fourier_Transform_FFT.html
 
 How to use 2D Fourier analysis to clean the noise in an image
 https://mathematica.stackexchange.com/questions/110914/how-to-use-2d-fourier-analysis-to-clean-the-noise-in-an-image
+
+New:
+
+Chirp Z transform
+http://www.univie.ac.at/nuhag-php/bibtex/open_files/6440_rarasc690001.pdf
+
+Chirp z imolementation:
+https://gist.github.com/endolith/2783807
+
+Different types of Cooley Tukey
+http://www.cypress.com/file/55401/download
+
+The FFT - an algorithm the whole family can use
+http://www.cs.dartmouth.edu/~rockmore/cse-fft.pdf
+
+How shazam works:
+https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
